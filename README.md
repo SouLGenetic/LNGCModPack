@@ -17,6 +17,6 @@ Installation Instructions
 5,  copy the "servers.dat" file into the main directory of this pack.
 6,  Lauch your game!
 
-              If you have any issues with installation Contact Genetic by opening this link  ts3server://tsproxy.ts3.cloud?port=6902
+              If you have any issues with installation Contact Genetic by opening this link  ts3server://lngc.strayaservers.com
               
 End of Instalation.
